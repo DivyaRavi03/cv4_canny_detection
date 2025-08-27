@@ -1,6 +1,6 @@
 # Project 04: Canny Edge Detection with OpenCV
 
-This project implements the classic Canny Edge Detection algorithm using Python and OpenCV. It's a foundational technique in computer vision used to identify the structural outlines of objects in an image by detecting sharp changes in pixel intensity.
+This project implements the classic Canny Edge Detection algorithm using Python and OpenCV. It's a foundational technique in computer vision that identifies the structural outlines (edges) of objects in an image by detecting sharp changes in pixel intensity.
 
 ## Features
 
